@@ -24,16 +24,16 @@ This project demonstrates basic CRUD operations, validation, search functionalit
 
 StudentRecordManagement/
 │
+├── .gitignore
+├── README.md
+├── lib/
+│   └── mysql-connector-j-9.7.0.jar
 ├── src/
 │   ├── Main.java
 │   ├── Student.java
 │   ├── StudentDAO.java
 │   └── DBConnection.java
-│
-├── bin/  (compiled class files)
-├── lib/
-│   └── mysql-connector-j-9.7.0.jar
-├── README.md
+└── bin/  (compiled class files, ignored by Git)
 
 ---
 
