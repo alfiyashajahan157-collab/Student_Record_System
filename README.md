@@ -22,8 +22,8 @@ This project demonstrates basic CRUD operations, validation, search functionalit
 
 ## 📁 Project Structure
 
+```
 StudentRecordManagement/
-│
 ├── .gitignore
 ├── README.md
 ├── lib/
@@ -34,6 +34,7 @@ StudentRecordManagement/
 │   ├── StudentDAO.java
 │   └── DBConnection.java
 └── bin/  (compiled class files, ignored by Git)
+```
 
 ---
 
